@@ -1,2 +1,7 @@
-
+.flex{
+	display: flex;
+	align-items: center;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
 /* Your CSS Code here. */

@@ -1,10 +1,10 @@
-.flex{
+.holder{
 	display: flex;
 	align-items: center;
 	justify-content:space-between;
 	flex-wrap:wrap;
 }
-.box-1{
+.box{
 	width:100px;
 	height:100px;
 	background:green;
@@ -12,7 +12,7 @@
 .box-2{
 	background:red;
 }
-.box-2{
+.box-3{
 	background:blue;
 }
 /* Your CSS Code here. */
